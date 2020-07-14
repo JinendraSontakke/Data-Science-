@@ -1,0 +1,49 @@
+.Question 1
+What value is returned by the following call to pollutantmean()? You should round your output to 3 digits.
+  pollutantmean("specdata", "sulfate", 1:10)
+ans : - [1] 4.064128
+
+.Question 2
+What value is returned by the following call to pollutantmean()? You should round your output to 3 digits.
+
+ans : - [1] 1.706047
+
+.Question 3
+What value is returned by the following call to pollutantmean()? You should round your output to 3 digits.
+
+ans : - [1] 1.280833
+
+.Question 4
+What value is returned by the following call to pollutantmean()? You should round your output to 3 digits.
+
+ans : - [1] 1.702932
+
+.Question 5
+What value is printed at end of the following code?
+
+ans : - [1] 228 148 124 165 104 460 232
+
+.Question 6
+What value is printed at end of the following code?
+
+ans : - [1] 219
+
+.Question 7
+What value is printed at end of the following code?
+
+ans : - [1] 711 135  74 445 178  73  49   0 687 237
+
+.Question 8
+What value is printed at end of the following code?
+
+ans : - [1]  0.2688  0.1127 -0.0085  0.4586  0.0447
+
+.Question 9
+What value is printed at end of the following code?
+
+ans : - [1] 243.0000   0.2540   0.0504  -0.1462  -0.1680   0.5969
+
+.Question 10
+What value is printed at end of the following code?
+
+ans : - [1]  0.0000 -0.0190  0.0419  0.1901
